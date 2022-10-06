@@ -2,3 +2,4 @@ this is a test sentence 1
 this is a test sentence 2
 this is a test sentence 3
 this is new sentence for master
+this is new sentence for feature1
